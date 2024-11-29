@@ -15,6 +15,8 @@
 Welcome to MonkeyGG2, a feature-rich game site created for you! With over 150 games to choose from, MonkeyGG2 offers a unique and customizable gaming experience. Whether you're a gamer, a developer, or your average Joe, MonkeyGG2 provides a seamless and enjoyable gaming environment.
 
 > Consider giving us a star! Especially if you forked this repository or you found some other use out of this repository.
+> Forked by: Jordan
+> Forked from: MonleyGG2
 
 ## Features
 
